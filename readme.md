@@ -24,3 +24,5 @@
 5. Gambar Responsif [10 poin]
    Bagaimana cara agar foto atau gambar pada website responsif menyesuaikan ukuran layar perangkat?
    Agar foto atau gambar pada website bisa responsif dan otomatis menyesuaikan ukuran layar perangkat, kita bisa menambahkan class img-fluid pada tag <img>. Class ini akan memberikan pengaturan CSS max-width: 100% dan height: auto, sehingga gambar tidak akan pecah atau keluar dari wadahnya saat dibuka di layar HP maupun laptop.
+"# TP_MOD_05_103092430002_KHANSA-ALFITRI-NOVAIDA-HARSONO" 
+"# TP_MOD_05_103092430002_KHANSA-ALFITRI-NOVAIDA-HARSONO" 
